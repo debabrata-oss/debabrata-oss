@@ -30,10 +30,15 @@ I'm an **Infrastructure Managed Service Specialist** specializing in Linux Admin
 
 ---
 
-### 📊 Databases & Monitoring
-
+### **Databases & Monitoring**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch" height="50" /><img src="https://cdn.simpleicons.org/splunk/000000" height="50" width="50" alt="Splunk" title="Splunk" /><img src="https://cdn.simpleicons.org/servicenow/62D84E" height="50" width="50" alt="ServiceNow" title="ServiceNow" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/splunk/000000" height="50" width="50" alt="Splunk" title="Splunk" />
 </p>
 
 ---

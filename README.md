@@ -7,7 +7,7 @@ I'm an **Infrastructure Managed Service Specialist** specializing in Linux Admin
 - 🔭 Currently working on cloud-native solutions, Ansible Automation Platform (AAP), and DevOps/Infrastructure engineering
 - 🌱 Always learning about emerging technologies and best practices in cloud and automation
 - 👯 Looking to collaborate on open-source DevOps and Linux automation projects
-- 💬 Ask me about Linux, Ansible, AWS, Patch Automation, and Infrastructure Operations
+- 💬 Ask me about Linux, Ansible, AWS, Patch Automation,Git,Github Action,Docker,Kubernet,CICD and Infrastructure Operations 
 - ⚡ Fun fact: I love turning repetitive manual tasks into fully automated pipelines!
 
 ---

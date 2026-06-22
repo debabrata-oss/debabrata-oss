@@ -17,11 +17,7 @@ I'm an **Infrastructure Managed Service Specialist** specializing in Linux Admin
 ### 💻 Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,linux,redhat,ubuntu" height="50" alt="bash linux redhat ubuntu" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/centos/262577" height="50" width="50" alt="CentOS" title="CentOS" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/ibm/052FAD" height="50" width="50" alt="IBM AIX" title="IBM AIX" />
+  <img src="https://skillicons.dev/icons?i=bash,linux,redhat,ubuntu,centos" height="50" /><img src="https://cdn.simpleicons.org/ibm/052FAD" height="50" width="50" alt="IBM AIX" title="IBM AIX" />
 </p>
 
 ---
@@ -29,11 +25,7 @@ I'm an **Infrastructure Managed Service Specialist** specializing in Linux Admin
 ### ☁️ Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,ansible,git,github,githubactions" height="50" alt="aws docker jenkins ansible git github githubactions" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/vmware/607078" height="50" width="50" alt="VMware vSphere" title="VMware vSphere" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="50" width="50" alt="Red Hat Satellite" title="Red Hat Satellite" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,ansible,git,github,githubactions" height="50" /><img src="https://cdn.simpleicons.org/vmware/607078" height="50" width="50" alt="VMware" title="VMware vSphere" /><img src="https://cdn.simpleicons.org/redhat/EE0000" height="50" width="50" alt="Red Hat Satellite" title="Red Hat Satellite" />
 </p>
 
 ---
@@ -41,15 +33,7 @@ I'm an **Infrastructure Managed Service Specialist** specializing in Linux Admin
 ### 📊 Databases & Monitoring
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=grafana,prometheus" height="50" alt="grafana prometheus" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/splunk/000000" height="50" width="50" alt="Splunk" title="Splunk" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/zabbix/CC0000" height="50" width="50" alt="Zabbix" title="Zabbix" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/servicenow/62D84E" height="50" width="50" alt="ServiceNow" title="ServiceNow" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/cyberark/0066CC" height="50" width="50" alt="CyberArk" title="CyberArk" />
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch" height="50" /><img src="https://cdn.simpleicons.org/splunk/000000" height="50" width="50" alt="Splunk" title="Splunk" /><img src="https://cdn.simpleicons.org/servicenow/62D84E" height="50" width="50" alt="ServiceNow" title="ServiceNow" />
 </p>
 
 ---

@@ -17,7 +17,7 @@ I'm an **Infrastructure Managed Service Specialist** specializing in Linux Admin
 ### 💻 Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,linux,redhat,ubuntu,centos" height="50" /><img src="https://cdn.simpleicons.org/ibm/052FAD" height="50" width="50" alt="IBM AIX" title="IBM AIX" />
+  <img src="https://skillicons.dev/icons?i=bash,linux,redhat,ubuntu,centos" height="50" /><img src="https://cdn.simpleicons.org/ibm/052FAD" height="50" width="50" alt="Python" title="Python" />
 </p>
 
 ---
